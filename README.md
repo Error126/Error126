@@ -17,3 +17,5 @@
 
 
 <h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
+
+<h3 align="left"></h3>🔮 Python | 30%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="150px">
