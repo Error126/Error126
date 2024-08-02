@@ -1,6 +1,6 @@
 <h1 align="center">من کی ام❗</h1>
 
-<img align="center" src="[https://giphy.com/gifs/hackersec-hs-hack-hacking-hacker-Cfiid6I8YDKqrCxAaY" alt="Wait for your internet connection to stabilize:D">
+<img align="center" src="https://giphy.com/gifs/hackersec-hs-hack-hacking-hacker-Cfiid6I8YDKqrCxAaY" alt="Wait for your internet connection to stabilize:D">
 
 <h2 align="center">سلام من رضا قنواتی هستم💻😎</h2>
 
