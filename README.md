@@ -1,6 +1,6 @@
 <h1 align="center">من کی ام❗</h1>
 
-<img  align="center" src="https://github.com/Error126/Error126/blob/main/image/68747470733a2f2f6d6github.gif" alt="Wait for your internet connection to stabilize:D">
+<img  align="center" src="https://github.com/Error126/Error126/blob/main/image/68747470733a2f2f6d6github.gif" width="300" height="200" alt="Wait for your internet connection to stabilize:D">
 
 <h2 align="center">سلام من رضا قنواتی هستم💻😎</h2>
 
