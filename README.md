@@ -13,6 +13,6 @@
 
 <h2 align="right">تماس با من☎ :</h2>
 
-<a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-linkedin-48.png"></a>  <a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-gmail-48.png"></a>
+<a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-linkedin-48.png"></a>  <a href="rezaghanavati@gmail.com"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-gmail-48.png"></a>
 
 
