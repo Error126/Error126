@@ -18,4 +18,10 @@
 
 <h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
 
-<h3 align="left"></h3>🔮 Python | 30%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="150px">
+<h3 align="left"></h3>🔮 Python | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="350px">
+
+<h3 align="left"></h3>🔮 Kivy/Python | 40%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
+
+<h3 align="left"></h3>🔮 PyAutoGui | 20%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="100px">
+
+<h3 align="left"></h3>🔮 Django | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
