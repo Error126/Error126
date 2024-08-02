@@ -14,3 +14,6 @@
 <h2 align="right">تماس با من☎ :</h2>
 
 <a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-linkedin-48.png"></a>
+
+
+<h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
