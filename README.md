@@ -18,21 +18,15 @@
 <h2 align="right">📊 مجموع مهارت‌ها:</h2>
 <h3 align="left"></h3>🧠 AI & ML | 80%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="350px">
 
-<h3 align="left"></h3>🤖 Telegram Bots | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
+<h3 align="left"></h3>🤖 Telegram Bots | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="300px">
 
-<h3 align="left"></h3>🔐 Security | 60%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
+<h3 align="left"></h3>🔐 Security | 60%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="270px">
 
-<h3 align="left"></h3>📱 Mobile | 60%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
+<h3 align="left"></h3>📱 Mobile | 60%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="270px">
 
-<h3 align="left"></h3>🎮 Game Dev  | 50%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
+<h3 align="left"></h3>🎮 Game Dev  | 50%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
 
 
 <h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
-<h3 align="left"></h3>🔮 Python | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="350px">
 
-<h3 align="left"></h3>🔮 PyAutoGui | 50%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
-
-<h3 align="left"></h3>🔮 Kivy/Python | 40%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
-
-<h3 align="left"></h3>🔮 Django | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
 
