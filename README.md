@@ -34,5 +34,5 @@
 
 <h3 align="left"></h3>🔮 Kivy/Python | 40%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
 
-<h3 align="left"></h3>🔮 Django | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
+<h3 align="left"></h3>🔮 Django | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
 
