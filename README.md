@@ -16,13 +16,13 @@
 <a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-linkedin-48.png"></a>
 
 <h2 align="right">📊 مجموع مهارت‌ها | All Skills Summary:</h2>
-<h3 align="left">┌────────────────────────────────────┐
-│ 🧠 AI & ML              ████████░░ 80% │
-│ 🤖 Telegram Bots        ███████░░░ 70% │
-│ 🔐 Security             ██████░░░░ 60% │
-│ 📱 Mobile               ██████░░░░ 60% │
-│ 🎮 Game Dev             █████░░░░░ 50% │
-└────────────────────────────────────┘</h3>
+<h3 align="left">┌────────────────────────────────────┐</h3>
+<h3 align="left">│ 🧠 AI & ML              ████████░░ 80% │</h3>
+<h3 align="left">│ 🤖 Telegram Bots        ███████░░░ 70% │</h3>
+<h3 align="left">│ 🔐 Security             ██████░░░░ 60% │</h3>
+<h3 align="left">│ 📱 Mobile               ██████░░░░ 60% │</h3>
+<h3 align="left">│ 🎮 Game Dev             █████░░░░░ 50% │</h3>
+<h3 align="left">└────────────────────────────────────┘</h3>
 
 
 <h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
