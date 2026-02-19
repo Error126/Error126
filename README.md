@@ -17,11 +17,11 @@
 
 <h2 align="right">📊 مجموع مهارت‌ها | All Skills Summary:</h2>
 <h3 align="left">┌──────────────────────────┐</h3>
-<h3 align="left">│ 🧠 AI & ML                    ████████░░ 80% │</h3>
-<h3 align="left">│ 🤖 Telegram Bots        ███████░░░ 70% │</h3>
-<h3 align="left">│ 🔐 Security                  ██████░░░░ 60% │</h3>
-<h3 align="left">│ 📱 Mobile                      ██████░░░░ 60% │</h3>
-<h3 align="left">│ 🎮 Game Dev                  █████░░░░░ 50% │</h3>
+<h3 align="left">│ 🧠 AI & ML                    │████████░░ 80% │</h3>
+<h3 align="left">│ 🤖 Telegram Bots        │███████░░░ 70% │</h3>
+<h3 align="left">│ 🔐 Security                  │██████░░░░ 60% │</h3>
+<h3 align="left">│ 📱 Mobile                      │██████░░░░ 60% │</h3>
+<h3 align="left">│ 🎮 Game Dev                  │█████░░░░░ 50% │</h3>
 <h3 align="left">└────────────────────────────────────┘</h3>
 
 
