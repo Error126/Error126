@@ -16,17 +16,18 @@
 <a href="https://www.linkedin.com/in/reza-ghanavati-554b29296"><img src="https://github.com/Error126/Error126/blob/main/image/icons8-linkedin-48.png"></a>
 
 <h2 align="right">📊 مجموع مهارت‌ها | All Skills Summary:</h2>
-<h3 align="left">┌──────────────────────────┐</h3>
-<h3 align="left">│ 🧠 AI & ML ████████░░ 80%      │</h3>
-<h3 align="left">│ 🤖 Telegram Bots ███████░░░ 70% │</h3>
-<h3 align="left">│ 🔐 Security ██████░░░░ 60% │</h3>
-<h3 align="left">│ 📱 Mobile ██████░░░░ 60% │</h3>
-<h3 align="left">│ 🎮 Game Dev █████░░░░░ 50% │</h3>
-<h3 align="left">└────────────────────────────────────┘</h3>
+<h3 align="left"></h3>🧠 AI & ML | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="350px">
+
+<h3 align="left"></h3>🤖 Telegram Bots | 50%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
+
+<h3 align="left"></h3>🔐 Security | 40%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
+
+<h3 align="left"></h3>📱 Mobile | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
+
+<h3 align="left"></h3>🎮 Game Dev  | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
 
 
 <h2 align="right">در حال حاضر دارم اینا رو یاد میگیرم👨‍💻 :</h2>
-
 <h3 align="left"></h3>🔮 Python | 70%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="350px">
 
 <h3 align="left"></h3>🔮 PyAutoGui | 50%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="250px">
@@ -34,3 +35,4 @@
 <h3 align="left"></h3>🔮 Kivy/Python | 40%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="200px">
 
 <h3 align="left"></h3>🔮 Django | 10%<img src="https://github.com/Error126/Error126/blob/main/image/icons8-loading-bar.gif" height="16px" width="50px">
+
